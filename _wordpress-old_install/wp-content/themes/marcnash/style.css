@@ -81,7 +81,9 @@ html {
   .owl-nav .owl-prev {
     padding: 20px;
     background: black;
-    color: white; }
+    color: white;
+    display: inline;
+    position: relative; }
     .owl-nav .owl-next:hover,
     .owl-nav .owl-prev:hover {
       background: orange; }

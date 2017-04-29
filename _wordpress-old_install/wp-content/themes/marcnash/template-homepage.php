@@ -19,9 +19,9 @@ Template Name: Homepage
     </div>
     <div class="item">
     	<div class="flex-grid" id="intro">
-			<div class="col third item1">2
+			<div class="col third item2">2
 			</div>
-			<div class="col item2">
+			<div class="col item1">
 			</div>
 		</div>
     </div>
@@ -35,9 +35,9 @@ Template Name: Homepage
     </div>
     <div class="item">
     	<div class="flex-grid" id="intro">
-			<div class="col third item1">4
+			<div class="col third item2">4
 			</div>
-			<div class="col item2">
+			<div class="col item1">
 			</div>
 		</div>
     </div>

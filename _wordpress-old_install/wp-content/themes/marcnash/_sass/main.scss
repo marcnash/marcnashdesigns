@@ -51,6 +51,8 @@ html {
 		padding:20px;
 		background:black;
 		color:white;
+		display:inline;
+		position:relative;
 		&:hover {
 			background:orange;
 		}
