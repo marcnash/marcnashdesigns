@@ -1,0 +1,1 @@
+$("body").delay(1e3).animate({opacity:"1"},700),$(document).on("click",'a[href^="#"]',function(t){var e=$(this).attr("href"),l=$(e);if(0!==l.length){t.preventDefault();var o=l.offset().top;$("body, html").animate({scrollTop:o},750)}}),$("button.flip").click(function(){$("ul.work-list li").toggleClass("hidden")});
